@@ -1,10 +1,10 @@
 Hi! 👋, I'm Agustin
 Full Stack Developer
 
-🔭 I’m currently looking for my very first job in the IT world.
-🌱 I’m currently learning Java & Sping by Udemy. Moreover, I am learningn React Native by myself.
-👯 I'm looking to join a multidisciplinary team where we can grow together to be best professionals.
-🧑🏻‍💻 Technologies that I use:
+-🔭 I’m currently looking for my very first job in the IT world.
+-🌱 I’m currently learning Java & Sping by Udemy. Moreover, I am learningn React Native by myself.
+-👯 I'm looking to join a multidisciplinary team where we can grow together to be best professionals.
+-🧑🏻‍💻 Technologies that I use:
 
 Java
 
