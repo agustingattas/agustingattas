@@ -12,7 +12,7 @@ Spring boot
 
 Html5
 
-CSS3
+https://www.linkedin.com/in/agust%C3%ADn-gatt%C3%A1s-sieyra-726507227/ CSS3
 
 Bootstrap
 
