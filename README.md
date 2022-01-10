@@ -4,7 +4,8 @@
 - 🔭 I’m currently looking for my very first job in the IT world.
 - 🌱 I’m currently learning Java & Sping by Udemy. Moreover, I am learningn React Native by myself.
 - 👯 I'm looking to join a multidisciplinary team where we can grow together to be best professionals.
-##🧑🏻‍💻 Technologies that I use:
+
+## 🧑🏻‍💻 Technologies that I use:
 
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2d2d76322e706e67](https://user-images.githubusercontent.com/92380443/148813118-3975814f-4dfd-4312-8d8d-cb0d27b971f3.png)
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f737072696e672d6c6f676f2e706e67](https://user-images.githubusercontent.com/92380443/148813154-d7c3ac95-66e1-4625-91ee-628558939a5d.png)
