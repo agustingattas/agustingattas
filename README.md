@@ -17,6 +17,6 @@
 
 ### 🌐 Languages
 - English: B2
-S- panish: Native
+- Spanish: Native
 ### 📬 Contact with me
 https://www.linkedin.com/in/agust%C3%ADn-gatt%C3%A1s-sieyra-726507227/
